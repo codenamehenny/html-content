@@ -27,9 +27,9 @@ with the following items:
 
 4. Navigation Bar:
 A basic navigation bar was implemented using an unordered list 
-(<ul>) which links to Home, About, and Contact pages
+(< ul>) which links to Home, About, and Contact pages
 
-The <nav> element was used to semantically define the navigation area
+The < nav> element was used to semantically define the navigation area
 
 5. Images:
 Two images were added to the page with alternate text:
